@@ -4,8 +4,7 @@ This project demonstrates the use of HTML5, semantic tags, accessibility, and SE
 
 ## **Live Demo**
 
-View the live demo:  
-[**Live Demo**]https://noor3600.github.io/My_webpage/
+View the live demo:  https://noor3600.github.io/My_webpage/
 
 ## **Description**
 
@@ -22,7 +21,4 @@ A simple webpage showcasing HTML5 principles, including:
 - **Contact**: Email and social media links for communication.
 
 ## **Installation**
-
-1. Clone the repository:
-   ```bash
    https://github.com/Noor3600/My_webpage.git
