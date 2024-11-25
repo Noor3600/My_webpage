@@ -25,4 +25,4 @@ A simple webpage showcasing HTML5 principles, including:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Noor3600/My_webpage.git
+   https://github.com/Noor3600/My_webpage.git
